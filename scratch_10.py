@@ -1,0 +1,17 @@
+
+mylist =[]
+mylist.append(20)
+mylist.insert(1,50)
+mylist.insert(2,30)
+mylist.insert(3,50)
+print(mylist)
+mylist.remove(50)
+print(mylist)
+mylist.append(30)
+print(mylist)
+mylist.sort()
+print(mylist)
+mylist.pop()
+print(mylist)
+mylist.reverse()
+print(mylist)
